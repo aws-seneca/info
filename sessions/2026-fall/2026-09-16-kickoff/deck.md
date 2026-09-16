@@ -4,7 +4,6 @@ Text of the deck, extracted from [2026-09-16-kickoff.pptx](2026-09-16-kickoff.pp
 
 Event: Wednesday 16 September 2026, 1:00 to 2:00 PM ET, online.
 
-> **Warning:** the speaker notes are still written for an in-person room (arrive early, food and music, show of hands, scan a QR code). The event is online. See "Check before you present" at the bottom.
 
 ---
 
@@ -270,16 +269,3 @@ Date and time in the Discord  ·  updates on Instagram too
 ```
 
 Notes: 'Before we wrap, I want everyone in this room in the Discord. Not later tonight, right now. Pull out your phone.' Watch the member count tick up and say the numbers out loud.After a minute: 'If you've joined, drop a message in #general, say hi, that's your first contribution.' Then cover Event 2 details, and open the floor. Stay after, don't pack up, the best conversations happen in the last ten minutes.
-
----
-
-## Check before you present
-
-- Slide 1 notes: arrival, food, music, and QR test are for a room. Replace with: join the call 10 minutes early, share screen, test the demo tab and audio.
-- Slide 2 notes and slide 14: "QR code" and "scan before you leave" need a Discord invite link pasted into the call chat instead.
-- Slide 3: the show of hands becomes a chat prompt or reactions (1, 2, or 3 in chat).
-- Slide 5: a stray "06" number sits on the slide.
-- Slide 9: says "Kickoff (tonight)". The event is at 1 PM.
-- Slide 10: "the GDG network" under Connections. Confirm that is intended in an AWS club deck.
-- Slide 13: the S3 demo runs over screen share. Zoom the browser so the console is readable, and have a screenshot fallback.
-- Slide 14 notes: "everyone in this room" and "stay after, don't pack up" assume a room.

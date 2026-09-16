@@ -15,6 +15,19 @@ Every event gets its own folder under `sessions/`, grouped by term. The folder h
 4. Fill in `README.md` in the new folder. Replace every `_TBD_` you can.
 5. Add a row to [`sessions/README.md`](sessions/README.md), newest first.
 
+6. Check the layout, then open a pull request:
+
+   ```bash
+   scripts/check-sessions.sh
+   git checkout -b add-2026-10-07-aws-101
+   git add sessions/
+   git commit -m "Add 2026-10-07 AWS 101 workshop"
+   git push -u origin add-2026-10-07-aws-101
+   gh pr create --fill
+   ```
+
+   The same check runs automatically on every pull request, along with a check for broken links between files. The exec team reviews and merges.
+
 ## Update a session
 
 Edit the files in its folder. What changes most: the status line, the checklist, and the links.

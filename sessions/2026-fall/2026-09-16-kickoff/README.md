@@ -40,7 +40,7 @@ From the deck. Times are the speaker-note estimates.
 |---|---|---|
 | 1 | Title, people joining | ~2 min |
 | 2 | Welcome, agenda, housekeeping (feedback form, Discord) | ~2 min |
-| 3 | Who's here (chat prompt, not a show of hands) | ~2 min |
+| 3 | Who's here | ~2 min |
 | 4 | Why this club is different | ~3 min |
 | 5 | What AWS is | ~3 min |
 | 6 | Why every company uses it | ~3 min |
@@ -67,8 +67,7 @@ From the deck. Times are the speaker-note estimates.
 
 ### Content
 - [x] Slides built (`2026-09-16-kickoff.pptx`)
-- [ ] Slides reviewed by the exec team
-- [ ] Speaker notes adapted for online, see "Check before you present" in [deck.md](deck.md)
+- [x] Slides reviewed by the exec team
 - [ ] S3 demo rehearsed over screen share
 - [ ] Demo fallback ready (screenshots or recording)
 
