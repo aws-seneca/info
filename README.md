@@ -40,6 +40,10 @@ Event formats we use: talks, hands-on workshops, career panels, quiz nights, and
 - Ideas from anyone, not just the exec team
 - Build in public
 
+## Free stuff for students
+
+Step-by-step guides for claiming free tools as a student live in [`guides/`](guides/). Start with the [GitHub Student Developer Pack](guides/github-student-pack/).
+
 ## Get involved
 
 You do not need to be on the exec team to contribute.
@@ -69,6 +73,8 @@ info/
 ├── README.md                        ← you are here
 ├── CONTRIBUTING.md                  ← how to add or update a session
 ├── .github/                         ← issue forms, PR template, automatic checks
+├── guides/                          ← how to claim free student tools
+│   └── github-student-pack/         ← one folder per guide: README.md + images/
 ├── scripts/
 │   └── check-sessions.sh            ← checks folder names and required files
 ├── templates/
