@@ -5,8 +5,8 @@ body:
   - type: input
     id: where
     attributes:
-      label: Which file or session?
-      placeholder: sessions/2026-fall/2026-09-16-kickoff/README.md
+      label: Which file?
+      placeholder: guides/github-student-pack/README.md
     validations:
       required: true
   - type: textarea

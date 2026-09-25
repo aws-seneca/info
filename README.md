@@ -1,8 +1,8 @@
 # AWS Student Builder Group @ Seneca Polytechnic
 
-The home base for our club: who we are, how we run things, and a folder for every event we host.
+The home base for our club: who we are, how we run things, and free tools for students.
 
-New to the team? Read this page, then open [`sessions/`](sessions/) to see what is coming up.
+New to the team? Read this page. Event plans, slides, and recaps live in the [`planning` repo's sessions folder](https://github.com/aws-seneca/planning/tree/main/planning/sessions).
 
 ## What is an AWS Student Builder Group?
 
@@ -70,45 +70,14 @@ Update this table when the team changes. Roles open up every term.
 
 ```
 info/
-├── README.md                        ← you are here
-├── CONTRIBUTING.md                  ← how to add or update a session
-├── .github/                         ← issue forms, PR template, automatic checks
-├── guides/                          ← how to claim free student tools
-│   └── github-student-pack/         ← one folder per guide: README.md + images/
-├── scripts/
-│   └── check-sessions.sh            ← checks folder names and required files
-├── templates/
-│   └── session/                     ← copy this folder to start a new session
-│       ├── README.md
-│       ├── deck.md
-│       └── recap.md
-└── sessions/
-    ├── README.md                    ← index of every session
-    └── 2026-fall/                   ← one folder per term
-        └── 2026-09-16-kickoff/      ← one folder per session: date, then name
-            ├── README.md            ← details, run of show, checklist
-            ├── deck.md              ← slide text and speaker notes
-            ├── 2026-09-16-kickoff.pptx
-            └── recap.md             ← filled in after the event
+├── README.md        ← you are here
+├── CONTRIBUTING.md  ← how to fix or add something here
+├── .github/         ← issue forms, PR template, link check
+└── guides/          ← how to claim free student tools
+    └── github-student-pack/  ← one folder per guide: README.md + images/
 ```
 
-### Naming rules
-
-| What | Pattern | Example |
-|---|---|---|
-| Term folder | `YYYY-term` | `2026-fall`, `2027-winter` |
-| Session folder | `YYYY-MM-DD-short-name` | `2026-10-07-aws-101` |
-| Slides file | same name as the session folder | `2026-10-07-aws-101.pptx` |
-
-Date first keeps sessions in order when sorted. Naming the slides after the folder means a downloaded file still says which event it belongs to.
-
-## Starting a new session
-
-```bash
-cp -r templates/session sessions/2026-fall/2026-10-07-aws-101
-```
-
-Then fill in the new `README.md` and add a row to [`sessions/README.md`](sessions/README.md). Full steps are in [CONTRIBUTING.md](CONTRIBUTING.md).
+Session material (plans, slides, recaps) moved to the [`planning` repo](https://github.com/aws-seneca/planning/tree/main/planning/sessions) on 2026-09-24, so every session is tracked in one place.
 
 ## Club rules to keep in mind
 

@@ -4,7 +4,4 @@
 
 ## Checklist
 
-- [ ] New session folders follow `sessions/YYYY-term/YYYY-MM-DD-short-name/`
-- [ ] `sessions/README.md` index updated if a session was added or its status changed
-- [ ] Slides, if any, are named after the session folder
 - [ ] Nothing private: no emails, phone numbers, passwords, AWS keys or account IDs, credit codes, or private Drive links
