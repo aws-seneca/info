@@ -57,6 +57,7 @@ You do not need to be on the exec team to contribute.
 | Name | Role |
 |---|---|
 | Bilal | President |
+| Datta | Tech lead |
 | Daksh | Exec team |
 | Hatim | Exec team |
 | Sneha | Exec team |
