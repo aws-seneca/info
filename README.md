@@ -1,3 +1,5 @@
+<img src="images/banner.png" alt="AWS Student Builder Group at Seneca Polytechnic: student led, for students" width="100%">
+
 # AWS Student Builder Group @ Seneca Polytechnic
 
 The home base for our club: who we are, how we run things, and free tools for students.
@@ -14,7 +16,9 @@ We are the **Seneca Polytechnic** group, based at Newnham Campus in Toronto. We 
 
 | Where | Link |
 |---|---|
+| Website | [awsseneca.com](https://awsseneca.com) |
 | All our links | [linktr.ee/awsseneca](https://linktr.ee/awsseneca) |
+| Study notes | [AWS 101 Study Guide](https://aws-seneca.github.io/aws-101-official-tutorial/) |
 | Event RSVPs (Meetup) | [meetup.com/aws-sbg-at-seneca-polytechnic-newnham-campus](https://www.meetup.com/aws-sbg-at-seneca-polytechnic-newnham-campus/) |
 | LinkedIn | [aws-student-builder-seneca-poly](https://www.linkedin.com/company/aws-student-builder-seneca-poly/) |
 | SSF club signup | [clubs.ssfinc.ca/SBG](https://clubs.ssfinc.ca/SBG/club_signup) |
@@ -74,8 +78,10 @@ info/
 ├── README.md        ← you are here
 ├── CONTRIBUTING.md  ← how to fix or add something here
 ├── .github/         ← issue forms, PR template, link check
-└── guides/          ← how to claim free student tools
-    └── github-student-pack/  ← one folder per guide: README.md + images/
+├── images/          ← the club banner
+└── guides/          ← how to claim free student tools, one folder per guide
+    ├── github-student-pack/  ← README.md + images/
+    └── jetbrains/            ← README.md + images/
 ```
 
 Session material (plans, slides, recaps) moved to the [`planning` repo](https://github.com/aws-seneca/planning/tree/main/planning/sessions) on 2026-09-24, so every session is tracked in one place.
